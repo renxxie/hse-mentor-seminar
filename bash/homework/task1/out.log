@@ -1,0 +1,14 @@
+Список всех файлов в текущей папке: 
+out.log - обычный файл
+task1.sh - обычный файл
+test_folder - каталог
+test.html - обычный файл
+test.txt - текстовый файл
+
+Файл task1.sh найден в текущей папке.
+
+out.log - права: -rw-rw-r--
+task1.sh - права: -rwxrwxr-x
+test_folder - права: drwxrwxr-x
+test.html - права: -rw-rw-r--
+test.txt - права: -rw-rw-r--
